@@ -1,1 +1,1 @@
-worker: npm i -g pm2 && pm2 start denara.js && pm2 save && pm2 logs
+worker: npm install && node . -- db 'mongodb+srv://hisoka:hisokamorrow@hisoka.axmu8.mongodb.net/?retryWrites=true&w=majority'
