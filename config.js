@@ -3,13 +3,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['66827294199']
-global.premium = ['66827294199']
-global.ownername = 'SATRIA - MD'
-global.packname = 'SATRIA - BOT-BUG??'
-global.author = 'SATRIA - MD 👿'
+global.owner = ['84868937865]
+global.premium = ['84868937865']
+global.ownername = 'Abrul - Zxs'
+global.packname = 'Abrul - BOT-BUG??'
+global.author = 'Abrul - MD 👿'
 global.sessionName = 'session'
-global.linkgrupss = 'https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA'
+global.linkgrupss = 'https://chat.whatpp.com/BiHY7oEBhQo1CsDeZgQ5dA'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
