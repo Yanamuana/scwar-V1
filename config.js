@@ -3,7 +3,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['84868937865']
+global.owner = ['6282123837946']
 global.premium = ['84868937865']
 global.ownername = 'Abrul - Zxs'
 global.packname = 'Abrul - BOT-BUG??'
